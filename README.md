@@ -110,11 +110,11 @@ This reveals the flag 🥂
 
 ## Task 8
 
--Symbol Tree window > function drop down > main
+Symbol Tree window > function drop down > main
 
 ![Screenshot From 2025-06-15 14-00-52](https://github.com/user-attachments/assets/b35f64fe-991f-4a93-86ce-5fb2be74401b)
 
--This hexadecimal string grants access, we need to convert it to decimal format
+This hexadecimal string grants access, we need to convert it to decimal format
 
 ![Screenshot From 2025-06-15 14-01-19](https://github.com/user-attachments/assets/bb5a5860-1ce6-4f7e-8441-a3ac29ec5175)
 
